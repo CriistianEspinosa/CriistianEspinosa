@@ -1,10 +1,10 @@
-## I am Cri👋
+## I am Cri 👋
 
-Estudiante de la pUCE
-Miembro de la CPC
-Amante de los gatitos, perritos
-1,90 de altura
-En contra de los cólicos 
+Estudiante de la pUCE\
+Miembro de la CPC\
+Amante de los gatitos, perritos\
+1,90 de altura\
+En contra de los cólicos\
 
 
 
