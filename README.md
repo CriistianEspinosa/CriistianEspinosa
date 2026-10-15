@@ -4,7 +4,7 @@ Estudiante de la pUCE\
 Miembro de la CPC\
 Amante de los gatitos, perritos\
 1,90 de altura\
-En contra de los cólicos\
+En contra de los cólicos
 
 
 
