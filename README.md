@@ -3,17 +3,15 @@
 <h1 align="center">¡Hola! 👋 Soy Cristian Espinosa</h1>
 <h3 align="center">Estudiante de Ingeniería</h3>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" alt="GitHub"/>
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" height="30" alt="LinkedIn"/>
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" alt="Twitter"/>
-</p>
+
 
 ---
 
 ### 🚀 Sobre mí
-- 🔭 Actualmente estoy estudiando en **Universidad Central del Ecuador**
-- 🌱 Estoy aprendiendo **Algoritmos**
+- Actualmente estoy estudiando en la **Universidad Central del Ecuador**
+- Barça 💙​❤️​
+- Amante del Básquet 🏀
+- Dueño y fundador de DepaCri 👻
 
 ---
 
@@ -38,6 +36,12 @@
 </p>
 
 ---
+
+### 📚 Lo que leo / escucho últimamente
+- **Libro:** *Clean Code* de Robert C. Martin / *El Principito*
+- **Podcast:** The Wild Project
+- **Blog/Newsletter:** Engineering.com
+
 
 
 
