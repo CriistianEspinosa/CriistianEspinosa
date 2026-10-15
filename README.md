@@ -1,4 +1,12 @@
-## Hi there 👋
+## I am Cri👋
+
+Estudiante de la pUCE
+Miembro de la CPC
+Amante de los gatitos, perritos
+1,90 de altura
+En contra de los cólicos 
+
+
 
 <!--
 **CriistianEspinosa/CriistianEspinosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
