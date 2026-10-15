@@ -1,12 +1,3 @@
-## I am Cri 👋
-
-Barça 💙​❤️​\
-Miembro de la CPC ✨\
-Jugador de Baquet 🏀\
-Campeón del Mundo ⭐​⭐\
-Estudiante de la UCE 🏫\
-Amante de los gatitos y perritos 🐶​😺
-
 
 <!-- Banner de bienvenida / Encabezado -->
 <h1 align="center">¡Hola! 👋 Soy Cristian Espinosa</h1>
@@ -47,24 +38,6 @@ Amante de los gatitos y perritos 🐶​😺
 </p>
 
 ---
-
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-
-
-
 
 
 
