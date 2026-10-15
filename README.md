@@ -1,11 +1,17 @@
 ## I am Cri 👋
 
-Barça 💙​❤️​\​​
+Barça 💙​❤️​\
+​​
 1,90 de altura🥰\
+
 Miembro de la CPC ✨\
-Jugador de Baquet 🏀\​
+
+Jugador de Baquet 🏀\
+​
 Campeón del Mundo ⭐​⭐\​
+
 Estudiante de la UCE ✨\
+
 Amante de los gatitos y perritos 🐶​😺\
 
 
