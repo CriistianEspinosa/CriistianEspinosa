@@ -7,7 +7,8 @@ Miembro de la CPC ✨\
 Jugador de Baquet 🏀\
 Campeón del Mundo ⭐​⭐\​
 Estudiante de la UCE ✨\
-Amante de los gatitos y perritos 🐶​😺\
+
+Amante de los gatitos y perritos 🐶​😺
 
 
 <!--
