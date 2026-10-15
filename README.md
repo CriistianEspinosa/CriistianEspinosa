@@ -1,11 +1,12 @@
 ## I am Cri 👋
 
-Estudiante de la pUCE\
-Miembro de la CPC\
-Amante de los gatitos, perritos\
-1,90 de altura\
-En contra de los cólicos
-
+Barça 💙​❤️​\​​
+1,90 de altura  \
+Miembro de la CPC ✨ \
+Jugador de Baquet 🏀   \​
+Campeón del Mundo ⭐​⭐\​
+Estudiante de la UCE ✨ \
+Amante de los gatitos y perritos 🐶​😺 \
 
 
 <!--
